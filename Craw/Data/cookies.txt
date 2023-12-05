@@ -1,0 +1,14 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.facebook.com	TRUE	/	TRUE	1735902784	sb	lctkY3L24D3mJnCLC614v2UP
+.facebook.com	TRUE	/	TRUE	1732993761	datr	lstkY1B2NcWkE_HpQIwD9_gW
+.facebook.com	TRUE	/	TRUE	1701790936	locale	vi_VN
+.facebook.com	TRUE	/	TRUE	1701947587	wd	766x729
+.www.facebook.com	TRUE	/	TRUE	1735896940	m_ls	%7B%22c%22%3A%7B%221%22%3A%22HCwAABaEbxa896rCDRMFFqSZmt-Twi0A%22%2C%222%22%3A%22GSwVQBxMAAAWARb8iLrWDBYAABV-HEwAABYAFvyIutYMFgAAFigA%22%2C%2295%22%3A%22HCwAABaeBhbS0ZjZAxMFFqSZmt-Twi0A%22%7D%2C%22d%22%3A%225407238c-db3f-49cc-bee6-fb8f917a8068%22%2C%22s%22%3A%220%22%2C%22u%22%3A%22k12axy%22%7D
+.facebook.com	TRUE	/	TRUE	1701947587	dpr	2.5
+.facebook.com	TRUE	/	TRUE	1732878784	c_user	61552625228463
+.facebook.com	TRUE	/	TRUE	1732878784	xs	23%3AMD_wzOdL22IzEg%3A2%3A1701342782%3A-1%3A-1
+.facebook.com	TRUE	/	TRUE	1709118784	fr	13xOPn9Uwj9Ad6FfW.AWV4te_IssDdy5a04qjUptNfesk.BlaG4y.Bh.AAA.0.0.BlaG5B.AWVFEwuc5Bs
+.facebook.com	TRUE	/	TRUE	0	presence	C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1701342790145%2C%22v%22%3A1%7D
